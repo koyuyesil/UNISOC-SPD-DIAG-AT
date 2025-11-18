@@ -70,10 +70,6 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="bin\Debug\backlight.bin" />
-    <None Include="bin\Debug\factory.bin" />
-    <None Include="bin\Debug\payload.bin" />
-    <None Include="bin\Debug\reboot.bin" />
     <None Include="Properties\Resources\backlight.bin" />
     <None Include="Properties\Resources\charging.bin" />
     <None Include="Properties\Resources\factory.bin" />
