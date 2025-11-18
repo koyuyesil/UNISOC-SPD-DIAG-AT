@@ -1,5 +1,5 @@
 ﻿
-namespace  Unisoc_AT_HadiKIT
+namespace  UnisocAT
 {
     partial class Main
     {

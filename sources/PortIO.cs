@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace  Unisoc_AT_HadiKIT
+namespace  UnisocAT
 {
     class PortIO
     {

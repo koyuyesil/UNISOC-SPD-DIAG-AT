@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace  Unisoc_AT_HadiKIT
+namespace  UnisocAT
 {
     static class Program
     {

@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Management;
 using System.Windows.Forms;
 
-namespace  Unisoc_AT_HadiKIT
+namespace  UnisocAT
 {
     public static class USBFastConnect
     {

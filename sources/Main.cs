@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace  Unisoc_AT_HadiKIT
+namespace  UnisocAT
 {
     public partial class Main : Form
     {
